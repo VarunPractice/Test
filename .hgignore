@@ -1,0 +1,17 @@
+syntax: glob
+*.orig
+*.user
+*.rej
+*.suo
+*.bak
+**.tmp_proj
+.hgignore.bak
+*/.vs/*
+*/obj/*
+*/bin/*
+*/Bin/*
+msbuild.log
+.vs
+Packages
+packages
+bin
